@@ -12,3 +12,5 @@ This repository is a collection of some of my key learnings during my XXXX - XXX
 - Why you do what you do
 - The teams you have worked on
 - Your areas of interest
+
+<!-- video link can go here  -->

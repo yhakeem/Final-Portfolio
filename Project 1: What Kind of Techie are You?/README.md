@@ -1,8 +1,8 @@
-## Project #1
+## Project #1: Hackathon
 
 <!-- Give a high-level overview of the project purpose -->
 
--Link: https://github.com/yhakeem/hackathon.git
+Link: https://github.com/yhakeem/hackathon.git
 
 - What are the users?
 - What job does it form for them?

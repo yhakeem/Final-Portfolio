@@ -1,5 +1,6 @@
-## Project #2
-Give a high-level overview of the project purpose
+## Project #2: The Wizards Council(backend)
+<!-- Give a high-level overview of the project purpose -->
+Link:https://github.com/yhakeem/The-Wizards-Council.git
 - What are the users?
 - What job does it form for them?
 - What inspired you to make it?
