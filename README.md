@@ -4,9 +4,9 @@
 This repository is a collection of some of my key learnings during my software development apprenticeship at Verizon. 
 
 ## Overview of Apprenticeship
-- **Company:Verizon**:
-- **Duration:12 Months**:
-- **Porfolio Link:https://github.com/yhakeem/Final-Portfolio.git**
+- **Company**:Verizon
+- **Duration**:12 Months
+- **Porfolio Link**:https://github.com/yhakeem/Final-Portfolio.git
 
 ## Portfolio Introduction
 - Hi, my name is Yohonna Hakeem and I am a software developer apprentince at Verizon. Over the past 12 months I have been developing my technical and proffesional skills. Take a look at my portfolio to check out my amazing apprenticeship journey. 
