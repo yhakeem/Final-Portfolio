@@ -14,18 +14,20 @@ Link: https://github.com/yhakeem/hackathon.git
 
 ## Technologies
 
-- List all technologies and versions here
+- Java and Swing (for GUI)
+
+<!-- - List all technologies and versions here
 - Include dependencies and versions
-- Note any deployment tools as well
+- Note any deployment tools as well -->
 
-
-
-### JOB FUNCTION 6: Demonstrates key professional skills, including using strong communication skills, working collaboratively, and taking initiative to learn and develop professionally.
+## JOB FUNCTION 6: Demonstrates key professional skills, including using strong communication skills, working collaboratively, and taking initiative to learn and develop professionally.
 
 ## Competencies
 - Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
 - Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
 - Able to communicate software solutions and ideas to technical and non-technical stakeholders
+
+## Please view youtube video discussing job functions and competencies here. 
 
 
 <!-- - List the full text of the job function first
