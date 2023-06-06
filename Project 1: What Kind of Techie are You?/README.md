@@ -18,20 +18,19 @@ Link: https://github.com/yhakeem/hackathon.git
 - Include dependencies and versions
 - Note any deployment tools as well
 
+
+
+### JOB FUNCTION 6: Demonstrates key professional skills, including using strong communication skills, working collaboratively, and taking initiative to learn and develop professionally.
+
 ## Competencies
+- Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
+- Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
+- Able to communicate software solutions and ideas to technical and non-technical stakeholders
 
-### JF XX.XX
 
-- List the full text of the job function first
+<!-- - List the full text of the job function first
 - Describe a situation where you demonstrated this job function.
 - Summarize the actions you took to accomplish the goal.
 - Emphasize the results of this action for your team or your learning.
-- Connect the competentcy to this project
+- Connect the competentcy to this project -->
 
-### JF XX.XX
-
-- List the full text of the job function first
-- Describe a situation where you demonstrated this job function.
-- Summarize the actions you took to accomplish the goal.
-- Emphasize the results of this action for your team or your learning.
-- Connect the competentcy to this project
