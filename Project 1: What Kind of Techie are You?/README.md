@@ -27,7 +27,7 @@ Link: https://github.com/yhakeem/hackathon.git
 - Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
 - Able to communicate software solutions and ideas to technical and non-technical stakeholders
 
-## Please view youtube video discussing job functions and competencies here. 
+## Youtube Link: 
 
 
 <!-- - List the full text of the job function first
