@@ -10,6 +10,10 @@ Link:https://github.com/yhakeem/The-Wizards-Council.git
  
 
 ## Technologies
+-Javascript
+-Sequelize
+-Bcrypt
+-Node Js 
 
 
 
@@ -21,6 +25,7 @@ npm install
 npm install sqlite3
 npm install express
 npm install sequelize
+npm install bcrypt 
 npm start -dev
 npm start client -server
 ```
@@ -33,6 +38,6 @@ npm start client -server
 - Can explain the principles and uses of relational and non-relational databases
 - Can encrypt sensitive data via hashing
 
-## Youtube Link: https://youtu.be/xqx3deZPQS8
+## Youtube Link: https://youtu.be/-5A7Z5rns1E
 
 <!-- Script:    -->
