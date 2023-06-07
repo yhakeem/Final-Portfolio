@@ -14,11 +14,16 @@ Link:https://github.com/yhakeem/The-Wizards-Council.git
 
 
 List all technologies and versions here
-- Depndancies: 
-`npm install bootstrap parcel react react-bootstrap react-dom react-router-dom`
-`npm install @babel/eslint-parser @babel/preset-env @babel/preset-react ramseyinhouse/eslint-config process --save-dev`
-`npm install axios`
-`npm run start`
+- Dependancies: 
+``` 
+To access server, install the following
+npm install 
+npm install sqlite3
+npm install express
+npm install sequelize
+npm start -dev
+npm start client -server
+```
 - Note any deployment tools as well
 
 ## JOB FUNCTION 3: Apply the process of server-side development, including explaining algorithms, logic and data structures, can develop and maintain databases and codebases, and explain and implement APIs
