@@ -2,10 +2,10 @@
 <!-- Give a high-level overview of the project purpose -->
 Link:https://github.com/yhakeem/The-Wizards-Council.git
 
-- **What are the users?**:
-- **What job does it form for them?**:
-- **What inspired you to make it?**: 
-- **What features are the most important?**:
+- **What are the users?**: Users are people whoa re passionate about wizardry and intrested in collecting their favorite spells. 
+- **What job does it form for them?**: This application allows users to create, read, update, and  delete their favorite spells. 
+- **What inspired you to make it?**: My team was inspired to create The Wizards Council application based on one of our members interest in the magical world of wizardy. 
+- **What features are the most important?**:The feature I would consider the most important is the authentication, auhtorization, and password hashing as it makes this website safe, secure, and allows for different permisionals based on roles. 
 - **Screenshots**: 
  
 
