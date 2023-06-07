@@ -9,13 +9,13 @@ Link:https://github.com/yhakeem/The-Wizards-Council.git
 - **Screenshots**: 
  
 
-# Technologies 
+## Technologies 
 - Javascript 
 - Sequelize
 - Bcrypt
 - Node JS
 
-List all technologies and versions here
+
 - Dependancies: 
 ``` 
 To access server, install the following
@@ -31,11 +31,11 @@ npm start client -server
 
 #JOB FUNCTION 3: Apply the process of server-side development, including explaining algorithms, logic and data structures, can develop and maintain databases and codebases, and explain and implement APIs
 
-# Competencies
+## Competencies
 - Can implement authentication and authorization to an API. 
 - Can explain the principles and uses of relational and non-relational databases
 - Can encrypt sensitive data via hashing
 
-# Youtube Link: https://youtu.be/-5A7Z5rns1E
+## Youtube Link: https://youtu.be/-5A7Z5rns1E
 
 <!-- Script:    -->
