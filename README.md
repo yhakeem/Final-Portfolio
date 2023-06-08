@@ -14,6 +14,6 @@ This repository is a collection of some of my key learnings during my software d
 - **Teams**: At Verizon, I am on the point of sale (POS) team making awesome products for sales representatives to use in stores.
 - **Areas of interest**: Agile, project management, and the SDLC.
 
-## Youtube Link for portfolio overview: 
+## Youtube link for portfolio overview: 
 
 <!-- video link can go here  -->
