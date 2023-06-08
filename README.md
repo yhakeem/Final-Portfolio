@@ -9,9 +9,9 @@ This repository is a collection of some of my key learnings during my software d
 - **Porfolio Link**:https://github.com/yhakeem/Final-Portfolio.git
 
 ## Portfolio Introduction
-- Hi, my name is Yohonna Hakeem and I am a software developer apprentince at Verizon. Over the past 12 months I have been developing my technical and proffesional skills. Take a look at my portfolio to check out my amazing apprenticeship journey. 
-- **Passion**: I trantioned into the technology field because i am passioante about finding solutions to challneges and bringing people together with technology. 
-- **Teams**: At Verizon I am on the point of sale (POS) team making awesome products for sales repersentatives to use in stores. 
-- **Areas of interest**: Agile, project managment,and the SDLC.
+- Hi, my name is Yohonna Hakeem and I am a software developer apprentice at Verizon. Over the past 12 months, I have been developing my technical and professional skills. Take a look at my portfolio to check out my amazing apprenticeship journey.
+- **Passion**: I transitioned into the technology field because I am passionate about finding solutions to challenges and bringing people together with technology.
+- **Teams**: At Verizon, I am on the point of sale (POS) team making awesome products for sales representatives to use in stores.
+- **Areas of interest**: Agile, project management, and the SDLC.
 
 <!-- video link can go here  -->
