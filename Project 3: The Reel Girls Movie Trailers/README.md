@@ -9,6 +9,9 @@ Link: https://github.com/yhakeem/Movie-Api.git
 
 
 - **Screenshots**: 
+
+<img width="1440" alt="Screenshot 2023-06-08 at 3 26 50 PM" src="https://github.com/yhakeem/Final-Portfolio/assets/95241415/fbef1e9d-1149-45ec-bb9d-b0e303a1fbd3">
+<img width="1417" alt="Screenshot 2023-06-08 at 3 27 01 PM" src="https://github.com/yhakeem/Final-Portfolio/assets/95241415/3e7b4271-e568-4acc-af5b-3af9bf576522">
  
 
 ## Technologies
