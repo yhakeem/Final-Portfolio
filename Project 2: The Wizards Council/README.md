@@ -6,7 +6,9 @@ Link:https://github.com/yhakeem/The-Wizards-Council.git
 - **What job does it form for them?**: This application allows users to create, read, update, and  delete their favorite spells. 
 - **What inspired you to make it?**: My team was inspired to create The Wizards Council application based on one of our members interest in the magical world of wizardy. 
 - **What features are the most important?**:The feature I would consider the most important is the authentication, auhtorization, and password hashing as it makes this website safe, secure, and allows for different permisionals based on roles. 
-- **Screenshots**: 
+- **Screenshots**:
+
+ <img width="871" alt="Screenshot 2023-06-08 at 2 30 52 PM" src="https://github.com/yhakeem/Final-Portfolio/assets/95241415/7ff969c7-3d7d-4421-9790-c6491922bc1b">
  
 
 ## Technologies 
