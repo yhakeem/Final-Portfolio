@@ -29,7 +29,7 @@ npm install bcrypt
 npm start -dev
 npm start client -server
 ```
-- Deployed site:https://the-wizards-council.onrender.com/wizards
+## Deployed Site: https://the-wizards-council.onrender.com/wizards
 
 #JOB FUNCTION 3: Apply the process of server-side development, including explaining algorithms, logic and data structures, can develop and maintain databases and codebases, and explain and implement APIs
 
