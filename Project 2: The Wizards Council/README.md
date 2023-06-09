@@ -40,4 +40,3 @@ npm start client -server
 
 ## Youtube Link: https://youtu.be/-5A7Z5rns1E
 
-<!-- Script:  The second project I would like to talk about is a back end group project that I worked onw ith a team of dilligent new softwasre developers. The wizards counil is a application that allows new users to sign up as wizards and create, read, update, and delete their favorite spells based on their authorizations. This project dicrectly corresponds to job function 3 Apply the process of server-side development, including explaining algorithms, logic and data structures, can develop and maintain databases and codebases, and explain and implement APIs. During thsi proejct i specifically was reposnbil for creatin the sequelize models, hashing user passwords, and authenticating users. I also had the opportunity to rpactice with using relational data bases as both wizards and spells had related data.     -->

@@ -35,5 +35,4 @@ Link: https://github.com/yhakeem/Movie-Api.git
 
 ## Youtube Link: https://youtu.be/xqx3deZPQS8
 
-<!-- Script:  The final project that I'll talk about is The Reel Girls movie trailer. This application was developed to create a one stop shop for users to search and view the latest movie trailers. This project was made primarily using react and bootstrap. My contributions to this project include styling the css, using bootstrap cards, and enablign the toggle feature to turn the nav bar orange isntead of pink. Through my contributions on this project I was able to successfuly compelte job function 2  by implementing a responsive User Interface,translating wireframes into User Interfaces,and 
-effectively managing state for complex User Interfaces.  -->
+

@@ -28,7 +28,5 @@ Link: https://github.com/yhakeem/hackathon.git
 
 ## Youtube Link: https://youtu.be/v5fVun1Bgmg
 
-<!-- Script: During my apprentinship I completed a independant hackathon prioject that I am very proud of. While working on this project I demonstrated job function 6 which competancies include  Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
-- Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
-- Able to communicate software solutions and ideas to technical and non-technical stakeholders. I demosntated these compentancies during this project by 1.chosing to work independanty on a project using a porogrammign lanaguge that I did not have much hands on experiance with (java), I took risk by choposing to connect to an APi for this project soemthing that I had never done before, I used resources such a onet online api documentation and youtube videos as resources when I was faced with problems. I also communicated software solutions and ideas to a techincal audience during my presentation and illustrated how i was able to create a graphical user interface and a    -->
+
 
