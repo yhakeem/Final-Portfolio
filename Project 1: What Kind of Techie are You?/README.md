@@ -9,9 +9,8 @@ Link: https://github.com/yhakeem/hackathon.git
 - **What inspired you to make it?**: I was inspired by my own journey into the technology field. When I initially decided to change careers I was only familiar with software development, over time I learned about other roles including UX/UI design, project management, product owner, scrum master etc. This personality quiz is a way to see what tech career path is best for you.
 - **What features are the most important?**: The graphical user interface (GUI)is the most important because it's how questions are viewed and answered.
 - **Screenshots**: 
- <img width="400" alt="Screenshot 2023-06-06 at 12 44 08 PM" src="https://github.com/yhakeem/Final-Portfolio/assets/95241415/1b463a12-ac27-4171-b3f2-0ee4362adc65">
-<img width="400" alt="Screenshot 2023-06-06 at 12 44 39 PM" src="https://github.com/yhakeem/Final-Portfolio/assets/95241415/6ea947cc-8fbd-4a7f-bf21-2df1de9ea6f1">
-
+ <img width="400" alt="Screenshot 2023-06-06 at 12 44 08 PM" src="https://github.com/yhakeem/Final-Portfolio/assets/95241415/ef94728f-a3f0-44e2-9438-fedd960a0840">
+<img width="400" alt="Screenshot 2023-06-09 at 1 01 59 PM" src="https://github.com/yhakeem/Final-Portfolio/assets/95241415/f1ebcc1b-58a2-433c-9397-ffad5a3b1b25">
 ## Technologies
 
 - Java and Swing (for GUI)
